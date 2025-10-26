@@ -277,8 +277,7 @@ def main():
     
     # Example URLs - replace with actual event websites
     example_urls = [
-        "https://example.com/events",
-        "https://another-site.com/calendar",
+        "https://www.hollywoodtheatre.ca/events",
         # Add more URLs here
     ]
     
